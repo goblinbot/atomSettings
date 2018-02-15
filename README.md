@@ -5,9 +5,8 @@ Backup of my atom.io settings at work.
 
 **Layout**
 
-default:
-UI.  | One Dark
-SYN. | Base 16 Tomorrow Dark
+- UI.  | One Dark
+- SYN. | Base 16 Tomorrow Dark
 
 (rip tron legacy UI)
 
