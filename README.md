@@ -1,7 +1,7 @@
 # atomSettings
 Backup of my atom.io settings at work.
 
--
+
 
 **Layout**
 
@@ -17,15 +17,12 @@ SYN. | Base 16 Tomorrow Dark
 - emmet
 - file-icons
 - goto-definition (optional)
-
 - linter-php (requires a PHP install, though.)
-
 - minimap
   - minimap-git-diff
-  - minimap-pigments
-  - minimap-split-diff
-
 - open-recent
 - pigments
+  - minimap-pigments
 - sass-autocompile (requires nodeJS)
 - splitdiff
+  - minimap-split-diff
